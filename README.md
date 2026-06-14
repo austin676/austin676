@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin
-- 👀 I’m interested in Web Dev,Data science,Data Analysis etc.
+- 👀 I’m interested in Web Dev,Artificial Intelligence,Blockchain etc.
 - 🌱 I’m currently learning Framework for Web Dev.
 - 💞️ I’m looking to collaborate on Frontend Development.
 - 📫 How to reach me austinsharma47@gmail.com
