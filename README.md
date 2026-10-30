@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin
 -🏥Currently: Web Development Engineering Intern @ MasonMart, Mumbai — shipping a Shopify-Integrated Vendor Management         System that automates and Improves decision making by –60%.
--🏆 1× Hackathon Winner in 2026
+ -🏆 1× Hackathon Winner in 2026
 - 👀 I’m interested in Web Dev,Artificial Intelligence,Blockchain etc.
 - 🌱 I’m currently learning DevOps exploring Distributed Systems, MultiAgent Systems and MCP.
 - 💞️ I’m looking to collaborate on AI,Blockchain,Web Dev.
