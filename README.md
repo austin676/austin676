@@ -1,11 +1,18 @@
-- 👋 Hi, I’m Austin
--🏥Currently: Web Development Engineering Intern @ MasonMart, Mumbai — shipping a Shopify-Integrated Vendor Management         System that automates and Improves decision making by –60%.
- -🏆 1× Hackathon Winner in 2026
-- 👀 I’m interested in Web Dev,Artificial Intelligence,Blockchain etc.
-- 🌱 I’m currently learning DevOps exploring Distributed Systems, MultiAgent Systems and MCP.
-- 💞️ I’m looking to collaborate on AI,Blockchain,Web Dev.
-- 📫 How to reach me austinsharma47@gmail.com
-- ⚡ Fun fact: I am a District-Level Sprinter.
+💻 Currently: Web Development Engineering Intern @ MasonMart, Mumbai — building a Shopify-integrated Vendor Management System to automate workflows and improve decision-making efficiency by 60%.
+
+🏆 Achievement: 1× Hackathon Winner (2026).
+
+🚀 Interests: Full-Stack Development, Artificial Intelligence, Blockchain & Distributed Systems.
+
+🌱 Currently Exploring: DevOps, Multi-Agent Systems, MCP, and scalable distributed architectures.
+
+🛠️ Tech Stack: Java, Python, JavaScript, React, Node.js, Solidity, Spring Boot, MySQL, MongoDB & AWS.
+
+🤝 Open to Collaborate: AI-powered applications, Blockchain solutions, and innovative Web Development projects.
+
+📫 Reach Me: austinsharma47@gmail.com
+
+⚡ Fun Fact: I'm a District-Level Sprinter! 🏃
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/austin.sharma_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/austin-sharma-029297300) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Austin221004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Austin_Sharma22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:austinsharma47@gmail.com) 
