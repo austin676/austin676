@@ -1,4 +1,4 @@
-💻 Currently: Web Development Engineering Intern @ MasonMart, Mumbai — building a Shopify-integrated Vendor Management System to automate workflows and improve decision-making efficiency by 60%.
+💻 Currently: Web Development Engineering Intern @ MasonMart, Mumbai - building a Shopify-integrated Vendor Management System to automate workflows and improve decision-making efficiency by 60%.
 
 🏆 Achievement: 1× Hackathon Winner (2026).
 
